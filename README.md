@@ -8,5 +8,6 @@
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Neitan2m&count_private=true&show_icons=true&theme=synthwave)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Neitan2m&theme=synthwave)
 
-![Snake animation]github.com/Neitan2m
+![Snake animation](https://github.com/Neitan2m)
