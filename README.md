@@ -9,4 +9,4 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Neitan2m&count_private=true&show_icons=true&theme=synthwave)
 
-![Snake animation]
+![Snake animation]github.com/Neitan2m
