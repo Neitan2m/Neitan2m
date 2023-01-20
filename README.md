@@ -29,4 +29,4 @@
 
 </div>
 
-![Snake animation](https://github.com/Neitan2m/Neitan2m/dist/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/Neitan2m/Neitan2m/dist/output/github-contribution-grid-snake.svg)
