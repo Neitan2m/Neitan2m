@@ -8,7 +8,7 @@
 
 
 <div>
-<a href="https://github.com/Neitan2m">
+<a href="https://github.com/natanaelsantana">
 <img align="center" height="180cm" src="https://github-readme-stats.vercel.app/api?username=natanaelsantana&count_private=true&show_icons=true&theme=synthwave">
 <img align="center" height="180cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=natanaelsantana&theme=synthwave">
 </div>
